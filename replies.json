@@ -1,0 +1,10 @@
+{
+    "replies":[
+        "Hey, this is a test reply.",
+        "Hey, this is a test interactive reply. Your name is {}",
+        "Hey, this is second test reply.",
+        "Hey, this is second test interactive reply. Your name is {}",
+        "Hey, this is third test reply.",
+        "Hey, this is third test interactive reply. Your name is {}"
+    ]
+}
